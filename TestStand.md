@@ -8,6 +8,8 @@
 
 [第五章 TestStand数据空间](#第五章)
 
+[第六章 在TestStand中调试](#第六章)
+
 ***
 #### 第二章
 * 测试和操作组织结构  
@@ -79,4 +81,7 @@ Type:Error、Path、Expression等
 使用容器传递数据给代码模块 *93   
 
 * Import/Export Properties 和 Property Loader  *p102
+
+#### 第六章
+* 调试代码模块（在代码模块的开发环境（如VS）中进行调试） *p124
 
